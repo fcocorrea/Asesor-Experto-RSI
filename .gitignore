@@ -1,0 +1,12 @@
+# Archivos compilados de MQL5
+*.ex5
+
+# Archivos de log
+*.log
+
+# Archivos de configuración y presets
+*.set
+*.ini
+
+# Carpeta de debug de MetaEditor
+Debug/
